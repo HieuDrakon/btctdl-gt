@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<conio.h> 
+// hỗn số là số kết hợp phân số và số nguyên có dạng a b/c
 struct honso
 {
 	int a;

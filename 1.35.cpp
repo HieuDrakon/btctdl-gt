@@ -12,7 +12,7 @@ struct sotk
 {
 	char ms[5];
 	char loaitk[10];
-	char tkh[30]={"null"};
+	char tkh[30];
 	double cmnd;	
 	float sotiengui;
 	
